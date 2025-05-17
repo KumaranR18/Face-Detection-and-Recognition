@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 64px;">🧑‍💻 Face Recognition System</h1>
+<h1 align="center">🧑‍💻 Face Recognition System </h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python" />
